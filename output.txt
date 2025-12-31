@@ -1,0 +1,6 @@
+The dial is at  [0m[33m50[0m
+moving right by  [0m[33m150[0m
+Points at zero  [0m[33m2[0m
+Total points at zero:  [0m[33m2[0m
+Total zeroes:  [0m[33m1[0m
+number of zeroes:  [0m[33m3[0m
